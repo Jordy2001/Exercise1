@@ -58,5 +58,4 @@ Flow of events:
 Extensions:
 2A – The user password was incorrect 
 1.	The system notifies the user to re—enter the password and username 
-2.	The use case resumes at step 1 
- 
+2.	The use case resumes at step 1
