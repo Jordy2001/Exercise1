@@ -21,7 +21,7 @@ Work Breakdown Structure
 8.  Wind turbine Examination  
 8.1 Reviewing the data 
 9. Updating Files to system
-10. ordering meals  
+10. ordering meals
 
 
 
