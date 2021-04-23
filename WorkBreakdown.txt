@@ -7,20 +7,20 @@ Work Breakdown Structure
 3. Enabling instrument to monitor weather 
 3.1 Record weather data with instrument
 3.2 Review data collected from weather
-4. Install  
-5. Controlling the Wind Turbine (5)
-6. Implementing Ice monitoring instrument 
-6.1 Installment of instrument in ice 
-6.2 Record data that is collected
-7. Setup Wireless network  
-7.1 Install drivers for Wireless
-7.2 connect to the wirless network  
-8. Monitoring Earth magnetic field  
-8.1 configure the Multi field meter
-8.2 Run tests on instrument 
-8.3 Collect and store data in database 
-9.  Wind turbine Examination  
-9.1 Reviewing the data 
+4. Controlling the Wind Turbine
+5. Implementing Ice monitoring instrument 
+5.1 Installment of instrument in ice 
+5.2 Record data that is collected
+6. Setup Wireless network  
+6.1 Install drivers for Wireless
+6.2 connect to the wirless network  
+7. Monitoring Earth magnetic field  
+7.1 configure the Multi field meter
+7.2 Run tests on instrument 
+7.3 Collect and store data in database 
+8.  Wind turbine Examination  
+8.1 Reviewing the data 
+9. Updating Files to system
 10. ordering meals  
 
 
