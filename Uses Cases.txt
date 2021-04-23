@@ -6,7 +6,15 @@ Precondition: The vehicle is started
 Trigger: User clicks on GPS icon 
 Flow of events: 
 1.	User enters login details 
-2.	
+2. The system is logged in 
+3. The user clicks on vehicle in use
+
+Extensions:
+2A 
+1. User inputs wrong password 
+2. Use Case starts at use case 1
+
+
 
 
 
@@ -20,7 +28,7 @@ Preconditon: Engineer must have permission to operate controls turbine
 Trigger: Engineer logs into machine 
 Flow of Events: 
 1.	Engineer enters the system 
-2.	Engineer sekects the turbine controller 
+2.	Engineer selects the turbine controller 
 3.	The system showcases an option for parking turbine 
 4.	Engineer clicks park option 
 5.	The system input returns a function to the turbine  
@@ -29,7 +37,9 @@ Flow of Events:
 8.	Engineer checks to see if it parked 
 9.	The system is logged out after finished with activity. 
 Extensions:
-
+4A 
+1. system unable to register click on button option 
+2. Use case starts at 3 after being refreshed 
 
 Use Case 3. User login authentication  
 Goal: to allow a user to login into a system  
