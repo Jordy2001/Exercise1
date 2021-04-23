@@ -1,0 +1,13 @@
+Non – Functional Requirements 
+Performance Requirements
+•	The GPS system must be able to display the movement of vehicle on the screen in real time
+•	The wind turbine must be able to moving on the system command even when its still windy 
+•	Verify the forgot password functionality for login  
+Reliability requirements 
+•	The GPS must not have any unexpected miscalculations of distance when a vehicle is travelling 
+•	The turbine should not continue moving when placed in “parked” mode
+•	The system should not let unauthorized users to login 
+Usability Requirements 
+•	The service worker should be able to click on buttons without having to click twice.  
+•	The enginener operating through the system efficiently through navigation panel
+•	The system can hit enter key on the keyboard to complete password operation. 

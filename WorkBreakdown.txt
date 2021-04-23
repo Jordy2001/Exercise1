@@ -1,0 +1,28 @@
+Work Breakdown Structure 
+1. Developing User Interface on GPS
+1.1	Identify core features 
+1.2	Develop layout 
+2. Enabling instrument to monitor weather (4) 
+2.1 Record weather data with instrument
+2.2 Review data collected from weather
+3. Installing GPS System in Vehicle 
+4. Activate login system (2)
+4.1 input option for username and password 
+4.2 Code and authenticate user 
+4.3 Test the login functionality 
+5. Controlling the Wind Turbine (5)
+6. Implementing Ice monitoring instrument 
+6.1 Installment of instrument in ice 
+6.2 Data is interpreted by team 
+7. Configuration of Telecommunication equipment 
+7.1 Install Router and Server 
+8. Monitoring Earth magnetic field  
+8.1 configure the Multi field meter
+8.2 Run tests on instrument 
+8.3 Collect and store data in database 
+9.  Wind turbine Examination  
+9.1 Reviewing the data 
+10. ordering meals  
+
+
+

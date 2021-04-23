@@ -1,0 +1,12 @@
+10	User stories
+ 
+1.	As a service worker I want to be able to track vehicles at all times so that I can call a rescue team incase of emergency. 
+2.	As a service worker I want to connect to a telecommunication equipment so that the I can make communication with the outside world 
+3.	As a Scientist I want to ensure that I monitor the weather so that I can collect data and predict future weather changes in our environment. 
+4.	As a service worker I want to track my location and distance away from the base.
+5.	As a scientist I want to be able to monitor the ice sheets with a device so that I can see any change in ice melting. 
+6.	As an engineer I want to be able to control the wind turbine so that I can put it in “parked” mode. 
+7.	As service work I want to be able to order food in advance so that I can prepare for the next meals in the upcoming week 
+8.	As a service worker I want to login and with my username and password so that the system can authenticate me
+9.	As a scientist I want to monitor the earth’s magnetic field so that I can store the data into the system 
+10.	As Engineer I want to examine the wind turbine data so that I can see how much energy is being generated from it. 
