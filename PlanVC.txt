@@ -7,3 +7,5 @@ What should ne created and when should they be mergedd and pushed?(this is about
 The branches should be created when there is a need to add or test something in the file, which uses the original version of that document.
 The development Branch should be created thorughout the project, when there is changes to be made after the client requests new requirements to a system. This shoudd be merged and pushed towards the end of the project
 branches will be made daily as the project follows a agile approach, which means its constanrtly testing the functionality of a system 
+
+For this matter I planned to use git commands within this local repository and then pushed them onto the remote repository on github. 
