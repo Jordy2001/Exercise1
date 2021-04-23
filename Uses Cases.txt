@@ -41,8 +41,8 @@ Extensions:
 1. system unable to register click on button option 
 2. Use case starts at 3 after being refreshed 
 
-Use Case 3. User login authentication  
-Goal: to allow a user to login into a system  
+Use Case 3. Updating data files   
+Goal: to allow a user to update important data files  
 primary actor: Scientist (human) 
 Secondary actor: Database 
 Precondition: The user has not yet entered login details 
@@ -51,14 +51,12 @@ Flow of events:
 1.	User enters username 
 2.	User enters password 
 3.	System identifies user in the database 
-4.	User is asked questions for further authentication 
-5.	User answers the questions 
-6.	The system checks the answer 
-7.	User is successfully logged in 
+4.	User selects option to store data into existing files
+5.  User updates file 
+6.  System registers the update
+7.  User adds a description after updating the system
 Extensions:
 2A – The user password was incorrect 
 1.	The system notifies the user to re—enter the password and username 
 2.	The use case resumes at step 1 
-5A – The system detects incorrect answer for authentication 
-1.	The system notifies the user 
-2.	The use case ends 
+ 
