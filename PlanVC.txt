@@ -1,1 +1,11 @@
 Plan for Version Control 
+
+What Branches will you need, and what for?
+Master Branch is given requirement in version control, This branch is needed to point out the last commits are made. This project will require another branch called "development branch", which is basically used to create a new version of the document and this allows us to add new changes to a file without directly changing the origin document in master branch. 
+
+What should ne created and when should they be mergedd and pushed?(this is about time, measured in days or weeks after the start of the project, assuming everything goes smoothly)
+The branches should be created when there is a need to add or test something in the file, which uses the original version of that document.
+The development Branch should be created thorughout the project, when there is changes to be made after the client requests new requirements to a system. This shoudd be merged and pushed towards the end of the project
+branches will be made daily as the project follows a agile approach, which means its constanrtly testing the functionality of a system 
+
+For this matter I planned to use git commands within this local repository and then pushed them onto the remote repository on github. 
